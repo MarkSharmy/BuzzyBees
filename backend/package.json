@@ -1,0 +1,14 @@
+{
+  "name": "buzzybees-server",
+  "version": "0.0.1",
+  "description": "Backend application for BuzzyBees platform",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "marksharmy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
